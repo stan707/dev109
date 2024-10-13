@@ -3,7 +3,7 @@ type="text/css"> <link rel="Stylesheet" href="style.css" type="text/css">
 				font-family: Helvetica, Arial, sans-serif;
 				color: #665544;
 				padding: 0 15% 0 15%;
-			h1, h2, p {
+			h1, p {
 				text-align:center;
 				color:blue;
 				font-family:'DancingScriptRegular‘;
