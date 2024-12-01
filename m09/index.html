@@ -9,37 +9,9 @@
 
     <h1>Click anywhere</h1>
     <div class="canvas-container" id="canvas" onclick="drawDot(event)">
-        <!-- Dots will appear here -->
     </div>
     <br>
     <button onclick="clearScreen()">Clean</button>
-
-    <script>
-        // Function to draw a dot where the user clicks
-        function drawDot(event) {
-            const canvas = document.getElementById('canvas');
-            const dot = document.createElement('div');
-            dot.classList.add('dot');
-            // Get the click position relative to the canvas
-            const offsetX = event.offsetX;
-            const offsetY = event.offsetY;
-            
-            // Set the dot position
-            dot.style.left = `${offsetX - 5}px`;  // Center the dot at the click position
-            dot.style.top = `${offsetY - 5}px`;   // Center the dot at the click position
-
-            // Append the dot to the canvas
-            canvas.appendChild(dot);
-        }
-
-        // Function to clear all dots on the screen
-        function clearScreen() {
-            const canvas = document.getElementById('canvas');
-            canvas.innerHTML = '';  // Remove all dots by clearing the canvas content
-        }
-    </script>
-
 </body>
 </html>
-
 
