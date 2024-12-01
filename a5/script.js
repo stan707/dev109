@@ -1,10 +1,10 @@
 // Define the image paths and descriptions
 const images = [
-    { src: "image1.jpg", description: "Description of Image 1" },
-    { src: "image2.jpg", description: "Description of Image 2" },
-    { src: "image3.jpg", description: "Description of Image 3" },
-    { src: "image4.jpg", description: "Description of Image 4" },
-    { src: "image5.jpg", description: "Description of Image 5" }
+    { src: "chermiti-mohamed-bNVq5OEzYgY-unsplash.jpg", description: "soccer" },
+    { src: "fabrizio-russo-OFsFrMx48dI-unsplash.jpg", description: "racecar" },
+    { src: "oliver-sjostrom-m-qps7eYZl4-unsplash.jpg", description: "surf" },
+    { src: "raymond-petrik-OAP9XCN-mmM-unsplash.jpg", description: "motorcycle" },
+    { src: "tom-morbey-Ke_bXG4dc2w-unsplash.jpg", description: "skateboard" }
 ];
 
 let currentIndex = 0;
