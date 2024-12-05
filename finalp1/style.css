@@ -27,13 +27,44 @@ section {
     background-color: rgba(0, 0, 0, 0.5); /* Optional: adds some contrast for readability */
 }
 
+h1 {
+    color: white;
+    text-align: center;
+}
+
 /* h2 styling */
 h2 {
     color: white;
+    text-align: center;
 }
 
 /* Paragraph styling */
 p {
     line-height: 1.6;
     color: white;
+    text-align:center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align:center;
+  
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
 }
