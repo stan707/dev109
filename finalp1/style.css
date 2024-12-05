@@ -75,3 +75,9 @@ label {
 	padding: 10px;
 	margin: 3px;
 }
+
+input[type="checkbox"]:checked + label {
+	color: white;
+	font-weight: bold;
+
+}
