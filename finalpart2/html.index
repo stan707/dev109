@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>stanley_paez_final_part2.html</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Final Part 2: Portfolio Reflection</h1>
+
+    <section>
+        <h2>What was your previous knowledge of HTML/CSS/JavaScript?</h2>
+        <ul>
+            <li>I had a basic understanding of HTML, knowing how to structure a webpage with elements like headings, paragraphs, and links.</li>
+            <li>For CSS, I had some experience with styling, such as changing colors and fonts, and using classes and IDs for layout design.</li>
+            <li>I had very little knowledge of JavaScript, mainly understanding the basic concepts like variables and functions, but had not worked much with it before.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Did you use a template or did you build your portfolio from scratch and why?</h2>
+        <ul>
+            <li>I decided to build my portfolio from scratch. I wanted to challenge myself and learn more about the web development process, especially layout and responsive design.</li>
+            <li>While templates can be a time-saver, I felt that building my portfolio from scratch would give me a better understanding of HTML, CSS, and JavaScript.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>What was your most challenging part of your portfolio (i.e., the template, artifacts, CSS, etc.)?</h2>
+        <ul>
+            <li>The most challenging part was CSS, especially when it came to positioning and making the layout responsive. Understanding how different CSS properties interact with each other was tricky at times.</li>
+            <li>Another challenge was integrating JavaScript for interactive elements, as I had limited experience with scripting before this project.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>How did this class change your view on Web Development?</h2>
+        <ul>
+            <li>This class helped me realize the complexity and creativity involved in web development. It's not just about coding; it's also about designing and creating user-friendly, responsive experiences.</li>
+            <li>I now see web development as an iterative process where you constantly improve and refine your work. I also gained an appreciation for the importance of accessibility and performance.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>What would you recommend to future students taking this class?</h2>
+        <ul>
+            <li>Start with a solid foundation of HTML and CSS before diving into JavaScript, as it will make learning more advanced concepts easier.</li>
+            <li>Don't be afraid to experiment and break things. It's all part of the learning process, and debugging is a key skill in web development.</li>
+            <li>Use developer tools in your browser frequently to troubleshoot and fine-tune your code.</li>
+            <li>Take your time with each project and don't rush. The more effort you put into your portfolio, the more it will reflect your growth as a developer.</li>
+        </ul>
+    </section>
+
+</body>
+</html>
